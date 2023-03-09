@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-17T09:56:45 PST" name="Suite" finished-at="2023-01-17T09:57:08 PST" duration-ms="22859">
+    <groups>
+    </groups>
+    <test started-at="2023-01-17T09:56:45 PST" name="Test" finished-at="2023-01-17T09:57:08 PST" duration-ms="22859">
+      <class name="tests.BBCTest">
+        <test-method is-config="true" signature="initialise()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:56:37 PST" name="initialise" finished-at="2023-01-17T09:56:45 PST" duration-ms="8219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method is-config="true" signature="printBeforeTest()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:56:45 PST" name="printBeforeTest" finished-at="2023-01-17T09:56:45 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printBeforeTest -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:56:45 PST" name="init" finished-at="2023-01-17T09:56:45 PST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyAllLinksTest()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:56:45 PST" name="verifyAllLinksTest" finished-at="2023-01-17T09:56:51 PST" duration-ms="5531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllLinksTest -->
+        <test-method signature="verifyNewsLinksTest()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:56:51 PST" name="verifyNewsLinksTest" finished-at="2023-01-17T09:57:08 PST" duration-ms="17225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewsLinksTest -->
+        <test-method is-config="true" signature="printAfterTest()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:57:08 PST" name="printAfterTest" finished-at="2023-01-17T09:57:08 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAfterTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.BBCTest@53fe15ff]" started-at="2023-01-17T09:57:08 PST" name="tearDown" finished-at="2023-01-17T09:57:09 PST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.BBCTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
